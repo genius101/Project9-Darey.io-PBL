@@ -161,7 +161,7 @@ Save this configuration and go ahead, change something in README.MD file in your
 
 ![3 f](https://user-images.githubusercontent.com/10243139/128804610-870aff6d-8e98-4449-8480-d3e7a76ad5c8.jpg)
 
-<h1>Congratulations!</h1>
+<h2>Congratulations!</h2>
 
-<h2>You have just implemented your first Continous Integration solution using Jenkins CI. Watch out for advanced CI configurations in upcoming projects.</h2>
+<h3>You have just implemented your first Continous Integration solution using Jenkins CI</h3>
 
